@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <integer-array name="countries_images">
+        <item>@string/code</item>
+        <item>@drawable/ic_egypt_round_icon_64dp</item>
+        <item>@drawable/ic_saudi_arabia_round_icon_64dp</item>
+        <item>@drawable/ic_qatar_round_icon_64dp</item>
+    </integer-array>
+
+    <string-array name="tab_bar_colors" tools:ignore="MissingTranslation">
+        <item>#FFFFFF</item>
+        <item>#1E99A8</item>
+        <item>#E0E0E0</item>
+    </string-array>
+</resources>

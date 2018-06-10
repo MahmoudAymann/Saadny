@@ -11,6 +11,7 @@
         android:layout_width="0dp"
         android:layout_height="?actionBarSize"
         android:theme="@style/AppTheme.AppBarOverlay"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -41,6 +42,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <android.support.constraint.ConstraintLayout
+        android:id="@+id/constraintLayout"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"

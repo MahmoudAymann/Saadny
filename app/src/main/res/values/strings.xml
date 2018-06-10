@@ -7,4 +7,23 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_btn_ar">ع</string>
+    <string name="splash_btn_en">EN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forget password?</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="dont_have_acc">dont have an account?</string>
+    <string name="user_name">User Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="pass_confirm">Password Confirm</string>
+    <string name="code">Code</string>
+    <string name="i_agree_to_the_terms_conditions"><![CDATA[I agree to the Terms & Conditions]]></string>
+    <string name="yes">YES</string>
+    <string name="change_language_prompt">change language</string>
+    <string name="no">NO</string>
 </resources>
